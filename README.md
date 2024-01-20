@@ -8,7 +8,7 @@ I have a passion for both Frontend and Backend Development in both web and mobil
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at evansmambo99@gmail.com or 0745622606
-* 🧠  I'm learning Python and Flutter
+* 🧠  I'm currently learning Python and Flutter
 * 🤝  I'm open to collaborating on real world projects and also gaining more knowledge in various technology stack areas.
 
 ### Skills
