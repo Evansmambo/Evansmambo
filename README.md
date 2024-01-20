@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (Web & Mobile Developer)
 ------------------------------------------
 
-I have a passion for both Frontend and Backend Development in both web development and mobile app development with various technologies.
+I have a passion for both Frontend and Backend Development in both web and mobile app development with HTML, CSS, JAVASCRIPT, REACT, REACT NATIVE & PHP.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [evansmambo99@gmail.com or 0745622606](mailto:evansmambo99@gmail.com or 0745622606)
