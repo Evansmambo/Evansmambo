@@ -7,7 +7,7 @@ Software Engineer (Web & Mobile Developer)
 I have a passion for both Frontend and Backend Development in both web and mobile app development with HTML, CSS, JAVASCRIPT, REACT, REACT NATIVE & PHP.
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [evansmambo99@gmail.com or 0745622606](mailto:evansmambo99@gmail.com or 0745622606)
+* ✉️  You can contact me at evansmambo99@gmail.com or 0745622606
 * 🧠  I'm learning Python and Flutter
 * 🤝  I'm open to collaborating on real world projects and also gaining more knowledge in various technology stack areas.
 
